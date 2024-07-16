@@ -1,3 +1,22 @@
+<style>
+ body {
+ background: lightcyan;
+ width: 800px;
+ margin: auto;
+ }
+ h1 {
+ color: maroon;
+ text-align: center;
+ }
+ p {
+ color: gray;
+ border: 1px solid gray;
+40
+ padding: 10px;
+ }
+</style>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k597ABpQhF0?si=U50Uq9e2p8Vxz1m" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
